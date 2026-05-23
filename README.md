@@ -11,7 +11,7 @@ Aplikacja do przeglądania i wyszukiwania pokemonów oparta o publiczne PokeAPI.
 - Vite
 - Tanstack Query
 - Tailwind
-- MaterialUI - tylko do zaprezentowania użyłem jeden komponent którym Chip użyty w pokemon-card
+- MaterialUI - tylko do zaprezentowania użyłem jeden komponent którym jest Chip użyty w pokemon-card
 
 ## Uruchomienie projektu
 ```bash
